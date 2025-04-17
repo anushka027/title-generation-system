@@ -17,7 +17,6 @@ __pycache__/
 Pipfile
 Pipfile.lock
 poetry.lock
-requirements.txt
 
 # Ignore Hugging Face transformers cache
 ~/.cache/huggingface/

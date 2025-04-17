@@ -1,0 +1,30 @@
+# Deep Learning and ML Framework
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+
+# Transformer Libraries
+transformers==4.40.1
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine Learning Tools
+scikit-learn==1.4.2
+
+# Web Framework
+flask==3.0.2
+flask-cors==4.0.0
+
+# PDF and Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.2
+mammoth==1.5.1
+
+# Natural Language Processing
+nltk==3.8.1
+
+# Progress Tracking
+tqdm==4.66.3
+
+# Development and Debugging
+ipython==8.23.0
